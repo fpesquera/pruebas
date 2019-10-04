@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1555504421 source:c:\users\alumno\desktop\abm empleados generico\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+
+1555503851 c:\users\alumno\desktop\abm empleados generico\empleado.h
+
+1555506408 source:c:\users\alumno\desktop\abm empleados generico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+
+1555618643 source:c:\users\gbcat\onedrive\escritorio\archivos-del-profesor-de-programacion-y-laboratorio-1-master\abm empleados generico\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+
+1555618571 c:\users\gbcat\onedrive\escritorio\archivos-del-profesor-de-programacion-y-laboratorio-1-master\abm empleados generico\empleado.h
+
+1555613703 source:c:\users\gbcat\onedrive\escritorio\archivos-del-profesor-de-programacion-y-laboratorio-1-master\abm empleados generico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+
+1555602728 source:c:\users\gbcat\onedrive\escritorio\archivos-del-profesor-de-programacion-y-laboratorio-1-master\abm empleados generico\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1555602858 c:\users\gbcat\onedrive\escritorio\archivos-del-profesor-de-programacion-y-laboratorio-1-master\abm empleados generico\input.h
+
+1555689668 source:c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\abm empleados generico\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1555699330 source:c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\abm empleados generico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+
+1555689171 c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\abm empleados generico\empleado.h
+
+1555602858 c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\abm empleados generico\input.h
+
+1555699014 source:c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\abm empleados generico\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+
+1556119502 source:g:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+	"sector.h"
+
+1556119502 g:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\empleado.h
+
+1556119502 g:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\input.h
+
+1556119502 g:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\sector.h
+
+1556119502 source:g:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1556119502 source:g:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+	"sector.h"
+
+1556119502 source:e:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+	"sector.h"
+
+1556119502 e:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\empleado.h
+
+1556119502 e:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\input.h
+
+1556119502 e:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\sector.h
+
+1556119502 source:e:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1556119502 source:e:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abm empleados generico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+	"sector.h"
+
